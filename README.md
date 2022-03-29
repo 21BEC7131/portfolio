@@ -1,4 +1,3 @@
-# portfolio
 !DOCTYPE html>
 <html>
 <head>
@@ -10,7 +9,7 @@
     <p style="text-align:center;font-family:courier;">Member of CSI Club</p><br>
 </body>
 <body1>
-<img src="imagevijaya.jpeg" alt="photo" 
+<img src="VijayaLakshmi.jpeg" alt="photo" 
 style="width:591;height:1280;">
 <br>
 <h3 style="text-align:center;font-family:verdana;">ABOUT ME</h3> 
