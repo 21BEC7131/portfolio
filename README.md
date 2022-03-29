@@ -1,5 +1,4 @@
 # portfolio
-![image](https://user-images.githubusercontent.com/102537226/160640883-58eaf70a-fad0-4149-a11e-ed20fa77bd0a.png)
 !DOCTYPE html>
 <html>
 <head>
